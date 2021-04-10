@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cheriot-Bett
-- 👀 I’m interested in ... Android ,flutter,Artificial Intelligence(Deep Learning)
+- 👀 I’m interested in ... Android,Django,flutter,Artificial Intelligence(Deep Learning)
 - 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ...Any interesting projects which will push my thinking to the limits
 - 📫 How to reach me ..0757066479.
